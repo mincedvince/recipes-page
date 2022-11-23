@@ -4,4 +4,4 @@ Thanksgiving food recipes project.
 
 Project created in html.
 
-Images of includes link to online recipes as well as ingredients and step by step guide.
+Images of food and included link to online recipes as well as ingredients and step by step guide.
