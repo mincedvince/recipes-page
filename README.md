@@ -1,4 +1,4 @@
 # recipes-page
-thanksgiving food recipes project
-project created in html
+Thanksgiving food recipes project.
+project created in html.
 images of includes link to online recipes as well as ingredients and step by step guide.
